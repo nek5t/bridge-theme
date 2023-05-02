@@ -48,6 +48,15 @@
 					}
 				}
 			]
+		},
+		"spacing": {
+			"spacingScale": {
+				"operator": "*",
+				"increment": 1.3611,
+				"steps": 7,
+				"mediumStep": 2,
+				"unit": "em"
+			}
 		}
 	},
 	"styles": {
