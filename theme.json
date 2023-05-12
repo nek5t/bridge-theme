@@ -130,6 +130,58 @@
 				"mediumStep": 2,
 				"unit": "em"
 			}
+		},
+		"color": {
+			"defaultPalette": false,
+			"defaultDuotone": false,
+			"defaultGradients": false,
+			"palette": [
+				{
+					"color": "transparent",
+					"name": "Transparent",
+					"slug": "transparent"
+				},
+				{
+					"color": "#040509",
+					"name": "Body Text",
+					"slug": "text"
+				},
+				{
+					"color": "#fefefe",
+					"name": "Body Background",
+					"slug": "body"
+				},
+				{
+					"color": "#fff",
+					"name": "White",
+					"slug": "white"
+				},
+				{
+					"color": "#010204",
+					"name": "Black",
+					"slug": "black"
+				},
+				{
+					"color": "#5b5f6b",
+					"name": "Gray",
+					"slug": "gray"
+				},
+				{
+					"color": "#d1514d",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#508441",
+					"name": "Secondary",
+					"slug": "secondary"
+				},
+				{
+					"color": "#1b2136",
+					"name": "Tertiary",
+					"slug": "tertiary"
+				}
+			]
 		}
 	},
 	"styles": {
@@ -143,6 +195,10 @@
 				"left": "var(--wp--preset--spacing--30)",
 				"right": "var(--wp--preset--spacing--30)"
 			}
+		},
+		"color": {
+			"background": "var(--wp--preset--color--body)",
+			"text": "var(--wp--preset--color--text)"
 		}
 	}
 }
