@@ -47,6 +47,79 @@
 						"max": "2.7222rem"
 					}
 				}
+			],
+			"fontFamilies": [
+				{
+					"fontFamily": "InstrumentSans",
+					"name": "Instrument Sans",
+					"slug": "instrument-sans",
+					"fontFace": [
+						{
+							"fontFamily": "InstrumentSans",
+							"fontWeight": "400",
+							"fontStyle": "normal",
+							"src": [
+								"file:./assets/fonts/InstrumentSans-Regular.woff2"
+							]
+						},
+						{
+							"fontFamily": "InstrumentSans",
+							"fontWeight": "400",
+							"fontStyle": "italic",
+							"src": [
+								"file:./assets/fonts/InstrumentSans-Italic.woff2"
+							]
+						},
+						{
+							"fontFamily": "InstrumentSans",
+							"fontWeight": "500",
+							"fontStyle": "normal",
+							"src": [
+								"file:./assets/fonts/InstrumentSans-Medium.woff2"
+							]
+						},
+						{
+							"fontFamily": "InstrumentSans",
+							"fontWeight": "500",
+							"fontStyle": "italic",
+							"src": [
+								"file:./assets/fonts/InstrumentSans-MediumItalic.woff2"
+							]
+						},
+						{
+							"fontFamily": "InstrumentSans",
+							"fontWeight": "600",
+							"fontStyle": "normal",
+							"src": [
+								"file:./assets/fonts/InstrumentSans-SemiBold.woff2"
+							]
+						},
+						{
+							"fontFamily": "InstrumentSans",
+							"fontWeight": "600",
+							"fontStyle": "italic",
+							"src": [
+								"file:./assets/fonts/InstrumentSans-SemiBoldItalic.woff2"
+							]
+						},
+						{
+							"fontFamily": "InstrumentSans",
+							"fontWeight": "700",
+							"fontStyle": "normal",
+							"src": [
+								"file:./assets/fonts/InstrumentSans-Bold.woff2"
+							]
+						},
+						{
+							"fontFamily": "InstrumentSans",
+							"fontWeight": "700",
+							"fontStyle": "italic",
+							"src": [
+								"file:./assets/fonts/InstrumentSans-BoldItalic.woff2"
+							]
+						}
+					]
+				}
 			]
 		},
 		"spacing": {
@@ -60,7 +133,9 @@
 		}
 	},
 	"styles": {
+		"css": "text-rendering: optimizeLegibility;",
 		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--instrument-sans)",
 			"fontSize": "var(--wp--preset--font-size--medium)"
 		},
 		"spacing": {
