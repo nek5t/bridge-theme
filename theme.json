@@ -137,49 +137,44 @@
 			"defaultGradients": false,
 			"palette": [
 				{
-					"color": "transparent",
-					"name": "Transparent",
-					"slug": "transparent"
-				},
-				{
-					"color": "#040509",
-					"name": "Body Text",
-					"slug": "text"
-				},
-				{
-					"color": "#fefefe",
-					"name": "Body Background",
-					"slug": "body"
-				},
-				{
-					"color": "#fff",
-					"name": "White",
-					"slug": "white"
-				},
-				{
-					"color": "#010204",
-					"name": "Black",
-					"slug": "black"
-				},
-				{
-					"color": "#5b5f6b",
-					"name": "Gray",
-					"slug": "gray"
-				},
-				{
-					"color": "#d1514d",
+					"color": "#1B2136",
 					"name": "Primary",
 					"slug": "primary"
 				},
 				{
-					"color": "#508441",
+					"color": "#231B37",
 					"name": "Secondary",
 					"slug": "secondary"
 				},
 				{
-					"color": "#1b2136",
-					"name": "Tertiary",
-					"slug": "tertiary"
+					"color": "#162C31",
+					"name": "Accent",
+					"slug": "accent"
+				},
+				{
+					"color": "#060607",
+					"name": "Black",
+					"slug": "neutral-black"
+				},
+				{
+					"color": "#2a2b2f",
+					"name": "Dark Gray",
+					"slug": "neutral-dark"
+				},
+				{
+					"color": "#f8f8f8",
+					"name": "Light Gray",
+					"slug": "neutral-light"
+				},
+				{
+					"color": "#fefefe",
+					"name": "White",
+					"slug": "neutral-white"
+				},
+				{
+					"color": "transparent",
+					"name": "Transparent",
+					"slug": "transparent"
 				}
 			]
 		}
@@ -197,8 +192,8 @@
 			}
 		},
 		"color": {
-			"background": "var(--wp--preset--color--body)",
-			"text": "var(--wp--preset--color--text)"
+			"background": "var(--wp--preset--color--neutral-white)",
+			"text": "var(--wp--preset--color--neutral-dark)"
 		}
 	}
 }
