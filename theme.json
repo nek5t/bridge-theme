@@ -176,6 +176,28 @@
 					"name": "Transparent",
 					"slug": "transparent"
 				}
+			],
+			"gradients": [
+				{
+					"gradient": "linear-gradient(168deg, var(--wp--preset--color--primary), var(--wp--preset--color--accent))",
+					"name": "Dark Waters",
+					"slug": "d-primary-to-accent"
+				},
+				{
+					"gradient": "linear-gradient(168deg, var(--wp--preset--color--primary) 30%, var(--wp--preset--color--secondary))",
+					"name": "Night Sky",
+					"slug": "d-primary-to-secondary"
+				},
+				{
+					"gradient": "linear-gradient(168deg, var(--wp--preset--color--neutral-dark), var(--wp--preset--color--neutral-black))",
+					"name": "Midnight",
+					"slug": "d-neutral-dark-to-black"
+				},
+				{
+					"gradient": "linear-gradient(0deg, var(--wp--preset--color--neutral-dark) 2%, transparent)",
+					"name": "Overlay",
+					"slug": "v-neutral-dark-to-alpha"
+				}
 			]
 		}
 	},
