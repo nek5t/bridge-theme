@@ -198,6 +198,28 @@
 					"name": "Overlay",
 					"slug": "v-neutral-dark-to-alpha"
 				}
+			],
+			"duotone": [
+				{
+					"colors": ["#1B2136", "#f8f8f8"],
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"colors": ["#231B37", "#f8f8f8"],
+					"name": "Secondary",
+					"slug": "secondary"
+				},
+				{
+					"colors": ["#162C31", "#f8f8f8"],
+					"name": "Accent",
+					"slug": "accent"
+				},
+				{
+					"colors": ["#2a2b2f", "#f8f8f8"],
+					"name": "Grayscale",
+					"slug": "grayscale"
+				}
 			]
 		}
 	},
