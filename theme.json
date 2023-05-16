@@ -217,8 +217,8 @@
 				},
 				{
 					"colors": ["#2a2b2f", "#f8f8f8"],
-					"name": "Grayscale",
-					"slug": "grayscale"
+					"name": "Black and White",
+					"slug": "black-and-white"
 				}
 			]
 		}
