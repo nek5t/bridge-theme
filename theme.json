@@ -285,7 +285,7 @@
 				}
 			},
 			"core/button": {
-				"css": "transition-property: background-color, border-color; transition-duration: 200ms; transition-timing-function: ease-out;",
+				"css": "transition-property: opacity, background-color, color, border-color; transition-duration: 200ms; transition-timing-function: ease-out;",
 				"variations": {
 					"outline": {
 						"color": {
