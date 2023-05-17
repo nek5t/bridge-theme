@@ -3,5 +3,12 @@
 	"editor.formatOnSave": true,
 	"editor.codeActionsOnSave": {
 		"source.fixAll": true
-	}
+	},
+	"[php]": {
+		"editor.formatOnSave": false,
+	},
+	"intelephense.stubs": [
+		"wordpress",
+		"standard"
+	]
 }
