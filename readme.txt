@@ -10,3 +10,6 @@ A post-modern theme for interstitial online spaces.
 
 == Description ==
 My first theme for the WordPress dot org repository :-)
+
+Bridge WordPress Theme, Copyright 2023 Eric Phillips
+Bridge is distributed under the terms of the GNU GPL
