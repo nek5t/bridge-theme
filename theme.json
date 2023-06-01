@@ -228,7 +228,7 @@
 		}
 	},
 	"styles": {
-		"css": "body { text-rendering: optimizeLegibility; width: 100vw; overflow-x: hidden; }",
+		"css": "body { text-rendering: optimizeLegibility; width: 100vw; }",
 		"typography": {
 			"fontFamily": "var(--wp--preset--font-family--instrument-sans)",
 			"fontSize": "var(--wp--preset--font-size--medium)",
